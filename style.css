@@ -1,0 +1,56 @@
+body {
+	background-color: white;
+	color: black;
+}
+
+h1 {
+	margin-top: 33px;
+	text-align: center;
+	font-family: 'Slabo 27px', serif;
+}
+
+h2, h3, h4 {
+	margin-top: 30px;
+	text-align: center;
+	font-family: 'Slabo 27px', serif;
+	font-size: 26px;
+
+}
+
+input {
+	width: 30.5%;
+	font-size: 25px;
+	margin-top: 30px;
+	margin: auto;
+	display: block;
+	text-align: center;
+}
+
+button {
+	margin-top: 20px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    background-color: black; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+#comp_pic {
+	margin-top: 50px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+#mark_pic {
+	margin-top: 50px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
